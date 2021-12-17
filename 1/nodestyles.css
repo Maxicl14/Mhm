@@ -1,0 +1,25 @@
+
+body, html {
+  padding: 0px;
+  margin: 0px;
+}
+
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.screen {
+  width: 100vw;
+  height: 100vh;
+  background: #123456;
+}
+
+.node {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 100%;
+  outline: 2px solid #eee;
+  background: #eee;
+}
